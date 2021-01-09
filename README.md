@@ -8,7 +8,7 @@ Implement an image color detector which identifies all the colors in an image
 In this task, we implement an image color detector which automatically tells us the name of the color detected  by double-clicking on any part of the image.
 The dataset used(csv file)  cosists of five columns : colour, name of the colour, hexadecimal code for the colour and the three channels red, green and blue.
 The CSV file contains in total of 865 rows of different shades of colour and its hexadecimal values.
-Two different colourful images have been taken from the internet for this task.
+A colourful image has been taken from the internet for this task.
 
 First the image is read using the OpenCV function imread() and the image is resized so that it properly fits the window.
 Then the pandas library is used, which is very helpful  when we need to perform various operations on data files like CSV.
