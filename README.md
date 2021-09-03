@@ -1,4 +1,4 @@
-Color Identification in Images**
+## **Color Identification in Images**
 
 ## **Task Description:**
 Implement an image color detector which identifies all the colors in an image
